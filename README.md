@@ -2,6 +2,7 @@
 
 
 - [Web Development Fundamentals](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/tree/main/1.%20Web%20Development%20Fundamentals)
+
   - [HTML Fundamentals](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md)
     - [HTML Introduction](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#html-introduction)
     - [Document Structure](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#document-structure)
@@ -15,9 +16,38 @@
     - [Responsive Image](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#responsive-image)
     - [DOM](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#dom)
     - [NOTE](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#note)
+
   - [Semantic HTML](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md)
     - [Importance Of Semantic HTML](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#importance-of-semantic-html)
     - [Landmark Elements](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#landmark-elements)
     - [Other Semantic Elements](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#other-semantic-elements)
     - [Semantic Attributes](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#semantic-attributes)
     - [NOTE](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#note)
+
+  - [CSS Fundamentals](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md)
+    - [Introduction](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#introduction)
+    - [HTML Class and ID](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#html-class-and-id)
+    - [Implementing CSS](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#implementing-css)
+      - [Inline Styles](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline-styles)
+      - [Internal CSS](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#internal-css)
+      - [External CSS](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#external-css)
+    - [Importing CSS Files](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#importing-css-files)
+    - [Priority and Specificity](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#priority-and-specificity)
+      - [Cascading Rule](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#cascading-rule)
+      - [Specificity](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#specificity)
+      - [Important](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#important)
+    - [Pseudoclass](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#pseudoclass)
+    - [Shorthand Properties](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#shorthand-properties)
+    - [Customizing Font](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#customizing-font)
+      - [Importing Font](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#importing-font)
+    - [Common Font Formats](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#common-font-formats)
+    - [Styling Text](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#styling-text)
+    - [BOX Model](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#box-model)
+    - [Units Of Measurement](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#units-of-measurement)
+    - [Display Properties](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#display-properties)
+      - [block](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#block)
+      - [inline](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline)
+      - [inline-block](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline-block)
+      - [none](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#none)
+     
+    - 
