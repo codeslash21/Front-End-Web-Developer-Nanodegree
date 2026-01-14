@@ -50,4 +50,4 @@
       - [inline-block](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline-block)
       - [none](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#none)
      
-    - 
+
