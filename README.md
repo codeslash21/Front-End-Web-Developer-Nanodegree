@@ -17,12 +17,14 @@
     - [DOM](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#dom)
     - [NOTE](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#note)
 
+
   - [Semantic HTML](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md)
     - [Importance Of Semantic HTML](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#importance-of-semantic-html)
     - [Landmark Elements](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#landmark-elements)
     - [Other Semantic Elements](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#other-semantic-elements)
     - [Semantic Attributes](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#semantic-attributes)
     - [NOTE](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/2.%20Semantic%20HTML/2.%20Semantic%20HTML.md#note)
+
 
   - [CSS Fundamentals](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md)
     - [Introduction](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#introduction)
@@ -49,7 +51,8 @@
       - [inline](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline)
       - [inline-block](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline-block)
       - [none](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#none)
-     
+
+
   - [Layout Techniques And Responsive Design](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/4.%20Layout%20Techniques%20And%20Responsive%20Design/1.%20Layout%20Techniques%20And%20Responsive%20Design.md)
     - [Positioning](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/4.%20Layout%20Techniques%20And%20Responsive%20Design/1.%20Layout%20Techniques%20And%20Responsive%20Design.md#positioning)
       - [Static](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/4.%20Layout%20Techniques%20And%20Responsive%20Design/1.%20Layout%20Techniques%20And%20Responsive%20Design.md#static)
@@ -73,6 +76,7 @@
       - [Principles](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/4.%20Layout%20Techniques%20And%20Responsive%20Design/1.%20Layout%20Techniques%20And%20Responsive%20Design.md#principles) 
 
 
+
 - [CSS Techniques, Tooling, and Web Accessibility](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/tree/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility)
 
   - [CSS Architecture](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/1.%20CSS%20Architecture/1.%20CSS%20Architecture.md)
@@ -80,6 +84,7 @@
     - [BEM](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/1.%20CSS%20Architecture/1.%20CSS%20Architecture.md#bem)
     - [OOCSS](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/1.%20CSS%20Architecture/1.%20CSS%20Architecture.md#oocss)
     - [SMACSS](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/1.%20CSS%20Architecture/1.%20CSS%20Architecture.md#smacss)
+
    
   - [CSS Preprocessors](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/2.%20CSS%20Preprocessors/1.%20CSS%20Preprocessors.md)
     - [CSS Preprocessor](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/2.%20CSS%20Preprocessors/1.%20CSS%20Preprocessors.md#css-preprocessor)
@@ -95,6 +100,7 @@
       - [Partials](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/2.%20CSS%20Preprocessors/1.%20CSS%20Preprocessors.md#partials)
       - [Mixins](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/2.%20CSS%20Preprocessors/1.%20CSS%20Preprocessors.md#mixins)
 
+
   - [Advanced CSS Techniques](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/3.%20Advanced%20CSS%20Techniques/1.%20Advanced%20CSS%20Techniques.md)
     - [Variables](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/3.%20Advanced%20CSS%20Techniques/1.%20Advanced%20CSS%20Techniques.md#variables)
     - [Math Functions](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/3.%20Advanced%20CSS%20Techniques/1.%20Advanced%20CSS%20Techniques.md#math-functions)
@@ -106,4 +112,10 @@
       - [Background Animation](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/3.%20Advanced%20CSS%20Techniques/1.%20Advanced%20CSS%20Techniques.md#background-animation)
       - [Turning Off Animation](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/3.%20Advanced%20CSS%20Techniques/1.%20Advanced%20CSS%20Techniques.md#turning-off-animation)
     - [Parallax Effect](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/3.%20Advanced%20CSS%20Techniques/1.%20Advanced%20CSS%20Techniques.md#parallax-effect)
+
+
+  - [Web Accessibility](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/4.%20Web%20Accessibility/1.%20Web%20Accessibility.md)
+    - [Web Accessibility](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/4.%20Web%20Accessibility/1.%20Web%20Accessibility.md#web-accessibility)
+    - [WCAG](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/4.%20Web%20Accessibility/1.%20Web%20Accessibility.md#wcag)
+    - [Verifying Accessibility](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/4.%20Web%20Accessibility/1.%20Web%20Accessibility.md#verifying-accessibility)
 
