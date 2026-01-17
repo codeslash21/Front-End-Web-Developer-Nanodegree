@@ -54,6 +54,7 @@
       - [inline](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline)
       - [inline-block](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inline-block)
       - [none](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#none)
+    - [Selectors](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#selectors)
 
 
   - [Layout Techniques And Responsive Design](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/4.%20Layout%20Techniques%20And%20Responsive%20Design/1.%20Layout%20Techniques%20And%20Responsive%20Design.md)
