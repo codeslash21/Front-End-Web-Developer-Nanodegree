@@ -38,6 +38,7 @@
       - [Cascading Rule](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#cascading-rule)
       - [Specificity](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#specificity)
       - [Important](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#important)
+      - [Inheritance](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#inheritance)
     - [Pseudoclass](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#pseudoclass)
     - [Shorthand Properties](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#shorthand-properties)
     - [Customizing Font](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/3.%20CSS%20Fundamentals/1.%20CSS%20Fundamentals.md#customizing-font)
