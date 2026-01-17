@@ -150,3 +150,31 @@
   - [Web Design Rules](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/5.%20Web%20Design%20Rules%20And%20Framework/1.%20Web%20Design%20Rules/1.%20web%20design%20rules.md)
   - [Website Personality](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/5.%20Web%20Design%20Rules%20And%20Framework/2.%20Website%20Personality/1.%20website%20personality.md)
   - [Elements And Components Design Ideas](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/5.%20Web%20Design%20Rules%20And%20Framework/3.%20Elements%20And%20Components%20Design%20Ideas/1.%20elements%20and%20components%20design%20ideas.md)
+
+
+
+- [CSS Styles](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/tree/main/6.%20CSS%20Styles)
+  - [Clip Path](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#clip-path)
+  - [Animation](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#animation)
+    - [Moving Text](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#moving-text)
+    - [Button](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#button)
+    - [Text](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#text)
+  - [Background Clip](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#background-clip)
+  - [Gallery/Compositionn](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#gallery)
+  - [Background Blendmode](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#background-blendmode)
+  - [Rotating Card](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#rotating-card)
+  - [Image Filter](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#image-filter)
+  - [Background Video](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#background-video)
+  - [Navigation](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#navigation)
+  - [Placeholder Design](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#placeholder-design)
+  - [Others](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/6.%20CSS%20Styles/1.%20CSS%20Style.md#others)
+ 
+
+
+- [Issues](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/tree/main/7.%20Issues)
+
+  - [CSS Issues](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/7.%20Issues/1.%20CSS%20Issues/1.%20CSS%20Issues.md)
+    - [Animation](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/7.%20Issues/1.%20CSS%20Issues/1.%20CSS%20Issues.md#animation)
+    - [Style](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/7.%20Issues/1.%20CSS%20Issues/1.%20CSS%20Issues.md#style)
+   
+
