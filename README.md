@@ -15,6 +15,7 @@
       - [Code Example](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#code-example)
     - [Responsive Image](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#responsive-image)
     - [DOM](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#dom)
+    - [Pseudo Element](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#pseudo-element)
     - [NOTE](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/1.%20Web%20Development%20Fundamentals/1.%20HTML%20Fundamentals/1.%20HTML%20Fundamentals.md#note)
 
 
