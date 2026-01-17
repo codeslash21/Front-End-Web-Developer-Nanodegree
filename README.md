@@ -122,3 +122,28 @@
     - [WCAG](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/4.%20Web%20Accessibility/1.%20Web%20Accessibility.md#wcag)
     - [Verifying Accessibility](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/2.%20CSS%20Techniques%2C%20Tooling%2C%20and%20Web%20Accessibility/4.%20Web%20Accessibility/1.%20Web%20Accessibility.md#verifying-accessibility)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [Web Design Rules And Framework](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/tree/main/5.%20Web%20Design%20Rules%20And%20Framework)
+
+  - [Web Design Rules](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/5.%20Web%20Design%20Rules%20And%20Framework/1.%20Web%20Design%20Rules/1.%20web%20design%20rules.md)
+  - [Website Personality](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/5.%20Web%20Design%20Rules%20And%20Framework/2.%20Website%20Personality/1.%20website%20personality.md)
+  - [Elements And Components Design Ideas](https://github.com/codeslash21/Front-End-Web-Developer-Nanodegree/blob/main/5.%20Web%20Design%20Rules%20And%20Framework/3.%20Elements%20And%20Components%20Design%20Ideas/1.%20elements%20and%20components%20design%20ideas.md)
